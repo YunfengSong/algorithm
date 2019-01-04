@@ -5,7 +5,7 @@ import java.util.Arrays;
  * @Date: 2019/1/2 17:45
  * @Description:  Bubble
  */
-public class SortingAlgorithm {
+public class BubbleSort {
 
         public static void main(String[] args) {
             int [] a = {1,100,234,44,3,2,4,5};
