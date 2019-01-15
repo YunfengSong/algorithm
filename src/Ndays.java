@@ -9,7 +9,7 @@ import java.util.Scanner;
 /**
  * @Auther: songyunfeng
  * @Date: 2019/1/12 11:13
- * @Description:
+ * @Description://
  */
 public class Ndays {
 
