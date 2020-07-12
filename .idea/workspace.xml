@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1825e464-b9c1-4802-84c1-98ef73f996de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MucleMemory/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MucleMemory/src/Solution4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MucleMemory/src/Solution5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MucleMemory/src/Solution3.java" beforeDir="false" afterPath="$PROJECT_DIR$/MucleMemory/src/Solution3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MucleMemory/src/Solution10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MucleMemory/Solution1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MucleMemory/Solution4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MucleMemory/Solution4.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +25,9 @@
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
     </option>
   </component>
@@ -46,6 +48,7 @@
     <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -54,12 +57,12 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15277778" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Quicksort">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="MucleMemory" />
@@ -67,8 +70,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Quicksort" />
+      <module name="algorithm" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Quicksort" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -90,6 +101,8 @@
       <workItem from="1589950577616" duration="286000" />
       <workItem from="1589952799527" duration="621000" />
       <workItem from="1589957359271" duration="5489000" />
+      <workItem from="1591250129687" duration="1740000" />
+      <workItem from="1592661354075" duration="439000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1589852254489</created>
@@ -125,55 +138,64 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="338" y="23" width="811" height="797" key="CommitChangelistDialog2/0.23.1440.797/-1920.-377.1920.1057@0.23.1440.797" timestamp="1589857787614" />
-    <state width="1371" height="194" key="GridCell.Tab.0.bottom" timestamp="1590066077305">
-      <screen x="0" y="23" width="1440" height="810" />
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom" timestamp="1592661646412">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1592661646412" />
     <state width="1371" height="194" key="GridCell.Tab.0.bottom/0.23.1440.805/-1920.-377.1920.1057@0.23.1440.805" timestamp="1589959843086" />
     <state width="1371" height="194" key="GridCell.Tab.0.bottom/0.23.1440.810/-1920.-377.1920.1057@0.23.1440.810" timestamp="1590066077305" />
-    <state width="1371" height="194" key="GridCell.Tab.0.center" timestamp="1590066077304">
-      <screen x="0" y="23" width="1440" height="810" />
+    <state width="1358" height="191" key="GridCell.Tab.0.center" timestamp="1592661646411">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1592661646411" />
     <state width="1371" height="194" key="GridCell.Tab.0.center/0.23.1440.805/-1920.-377.1920.1057@0.23.1440.805" timestamp="1589959843084" />
     <state width="1371" height="194" key="GridCell.Tab.0.center/0.23.1440.810/-1920.-377.1920.1057@0.23.1440.810" timestamp="1590066077304" />
-    <state width="1371" height="194" key="GridCell.Tab.0.left" timestamp="1590066077302">
-      <screen x="0" y="23" width="1440" height="810" />
+    <state width="1358" height="191" key="GridCell.Tab.0.left" timestamp="1592661646411">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1592661646411" />
     <state width="1371" height="194" key="GridCell.Tab.0.left/0.23.1440.805/-1920.-377.1920.1057@0.23.1440.805" timestamp="1589959843083" />
     <state width="1371" height="194" key="GridCell.Tab.0.left/0.23.1440.810/-1920.-377.1920.1057@0.23.1440.810" timestamp="1590066077302" />
-    <state width="1371" height="194" key="GridCell.Tab.0.right" timestamp="1590066077304">
-      <screen x="0" y="23" width="1440" height="810" />
+    <state width="1358" height="191" key="GridCell.Tab.0.right" timestamp="1592661646412">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
+    <state width="1358" height="191" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1592661646412" />
     <state width="1371" height="194" key="GridCell.Tab.0.right/0.23.1440.805/-1920.-377.1920.1057@0.23.1440.805" timestamp="1589959843086" />
     <state width="1371" height="194" key="GridCell.Tab.0.right/0.23.1440.810/-1920.-377.1920.1057@0.23.1440.810" timestamp="1590066077304" />
-    <state x="233" y="23" key="SettingsEditor" timestamp="1589957393135">
-      <screen x="0" y="23" width="1440" height="800" />
+    <state x="233" y="23" key="SettingsEditor" timestamp="1592661545076">
+      <screen x="0" y="23" width="1440" height="797" />
     </state>
+    <state x="233" y="0" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1592661470905" />
     <state x="233" y="23" key="SettingsEditor/0.23.1440.797/-1920.-377.1920.1057@0.23.1440.797" timestamp="1589857697183" />
+    <state x="233" y="23" key="SettingsEditor/0.23.1440.797@0.23.1440.797" timestamp="1592661545076" />
     <state x="233" y="23" key="SettingsEditor/0.23.1440.800/-1920.-377.1920.1057@0.23.1440.800" timestamp="1589957393135" />
     <state x="549" y="126" key="VCS.ChangeListViewerDialog" timestamp="1589850242400">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="549" y="126" key="VCS.ChangeListViewerDialog/0.23.1440.797/-1920.-377.1920.1057@0.23.1440.797" timestamp="1589850242400" />
-    <state x="324" y="161" key="Vcs.Push.Dialog.v2" timestamp="1589857790145">
-      <screen x="0" y="23" width="1440" height="797" />
+    <state x="324" y="156" key="Vcs.Push.Dialog.v2" timestamp="1591250469058">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="324" y="156" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-400.1920.1080@0.0.1440.900" timestamp="1591250469058" />
     <state x="324" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.797/-1920.-377.1920.1057@0.23.1440.797" timestamp="1589857790145" />
     <state x="421" y="153" width="598" height="548" key="find.popup" timestamp="1589960018430">
       <screen x="0" y="23" width="1440" height="805" />
     </state>
     <state x="421" y="153" width="598" height="548" key="find.popup/0.23.1440.805/-1920.-377.1920.1057@0.23.1440.805" timestamp="1589960018430" />
-    <state x="118" y="66" key="new project wizard" timestamp="1590066073760">
-      <screen x="0" y="23" width="1440" height="810" />
+    <state x="118" y="48" key="new project wizard" timestamp="1591250599999">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="118" y="48" key="new project wizard/0.0.1440.900/-1920.-400.1920.1080@0.0.1440.900" timestamp="1591250599999" />
     <state x="118" y="65" key="new project wizard/0.23.1440.797/-1920.-377.1920.1057@0.23.1440.797" timestamp="1589869188257" />
     <state x="118" y="66" key="new project wizard/0.23.1440.810/-1920.-377.1920.1057@0.23.1440.810" timestamp="1590066073760" />
     <state x="389" y="191" key="run.anything.popup" timestamp="1589853257798">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="389" y="191" key="run.anything.popup/0.23.1440.797/-1920.-377.1920.1057@0.23.1440.797" timestamp="1589853257798" />
-    <state x="381" y="152" width="670" height="676" key="search.everywhere.popup" timestamp="1589947181374">
-      <screen x="0" y="23" width="1440" height="805" />
+    <state x="381" y="144" width="670" height="756" key="search.everywhere.popup" timestamp="1591250639649">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state x="381" y="144" width="670" height="756" key="search.everywhere.popup/0.0.1440.900/-1920.-400.1920.1080@0.0.1440.900" timestamp="1591250639649" />
     <state x="381" y="152" width="670" height="676" key="search.everywhere.popup/0.23.1440.805/-1920.-377.1920.1057@0.23.1440.805" timestamp="1589947181374" />
   </component>
   <component name="XDebuggerManager">
