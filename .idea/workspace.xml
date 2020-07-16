@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1825e464-b9c1-4802-84c1-98ef73f996de" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MucleMemory/src/Solution19.java" afterDir="false" />
-    </list>
+    <list default="true" id="1825e464-b9c1-4802-84c1-98ef73f996de" name="Default Changelist" comment="July 16th." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -182,7 +180,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594910076259</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="July 16th.">
+      <created>1594910387619</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1594910387619</updated>
+    </task>
+    <task id="LOCAL-00011" summary="July 16th.">
+      <created>1594910498165</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1594910498166</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,10 +225,10 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="204" y="23" key="#Project_Structure/0.23.1440.797/-1920.-377.1920.1057@0.23.1440.797" timestamp="1589856775543" />
-    <state x="338" y="0" width="825" height="900" key="CommitChangelistDialog2" timestamp="1594910076091">
+    <state x="338" y="0" width="825" height="900" key="CommitChangelistDialog2" timestamp="1594910564334">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="338" y="0" width="825" height="900" key="CommitChangelistDialog2/0.0.1440.900/-1920.-400.1920.1080@0.0.1440.900" timestamp="1594910076091" />
+    <state x="338" y="0" width="825" height="900" key="CommitChangelistDialog2/0.0.1440.900/-1920.-400.1920.1080@0.0.1440.900" timestamp="1594910564334" />
     <state x="338" y="23" width="811" height="797" key="CommitChangelistDialog2/0.23.1440.797/-1920.-377.1920.1057@0.23.1440.797" timestamp="1589857787614" />
     <state x="207" y="83" key="DiffContextDialog" timestamp="1594687003108">
       <screen x="0" y="0" width="1440" height="900" />
@@ -258,10 +270,10 @@
       <screen x="0" y="23" width="1440" height="797" />
     </state>
     <state x="549" y="126" key="VCS.ChangeListViewerDialog/0.23.1440.797/-1920.-377.1920.1057@0.23.1440.797" timestamp="1589850242400" />
-    <state x="324" y="156" key="Vcs.Push.Dialog.v2" timestamp="1594910080012">
+    <state x="324" y="156" key="Vcs.Push.Dialog.v2" timestamp="1594910500378">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="324" y="156" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-400.1920.1080@0.0.1440.900" timestamp="1594910080012" />
+    <state x="324" y="156" key="Vcs.Push.Dialog.v2/0.0.1440.900/-1920.-400.1920.1080@0.0.1440.900" timestamp="1594910500378" />
     <state x="324" y="161" key="Vcs.Push.Dialog.v2/0.23.1440.797/-1920.-377.1920.1057@0.23.1440.797" timestamp="1589857790145" />
     <state x="421" y="153" width="598" height="548" key="find.popup" timestamp="1589960018430">
       <screen x="0" y="23" width="1440" height="805" />
