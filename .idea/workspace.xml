@@ -19,9 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="1825e464-b9c1-4802-84c1-98ef73f996de" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/MucleMemory/src/Solution21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+=======
+    <list default="true" id="2f4f9e71-5880-4ee2-9310-b6c65b13f55f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MucleMemory/src/Solution22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MucleMemory/src/Solution20.java" beforeDir="false" afterPath="$PROJECT_DIR$/MucleMemory/src/Solution21.java" afterDir="false" />
+>>>>>>> origin/master
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,161 +51,46 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="$MAVEN_REPOSITORY$" />
-        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.3" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
         <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
   </component>
-  <component name="ProjectId" id="1c6XiyNuv0ovoNV3dajJx4GLijC" />
+  <component name="ProjectId" id="1eqjVbTrXN6hWWuZ5212ZgdeTNk" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
-    <option name="autoscrollToSource" value="true" />
-    <option name="foldersAlwaysOnTop" value="false" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="ToolWindowCommit.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15277778" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-  </component>
-  <component name="RunManager" selected="Application.Quicksort">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="MucleMemory" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Quicksort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Quicksort" />
-      <module name="algorithm" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Quicksort" />
-        <item itemvalue="Application.Main" />
-      </list>
-    </recent_temporary>
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1825e464-b9c1-4802-84c1-98ef73f996de" name="Default Changelist" comment="" />
-      <created>1589850148201</created>
+      <changelist id="2f4f9e71-5880-4ee2-9310-b6c65b13f55f" name="Default Changelist" comment="" />
+      <created>1594990230165</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1589850148201</updated>
-      <workItem from="1589850153820" duration="6926000" />
-      <workItem from="1589879571726" duration="65000" />
-      <workItem from="1589946107627" duration="2750000" />
-      <workItem from="1589950516070" duration="45000" />
-      <workItem from="1589950577616" duration="286000" />
-      <workItem from="1589952799527" duration="621000" />
-      <workItem from="1589957359271" duration="5489000" />
-      <workItem from="1591250129687" duration="1740000" />
-      <workItem from="1592661354075" duration="439000" />
+      <updated>1594990230165</updated>
+      <workItem from="1594990235279" duration="106000" />
+      <workItem from="1595056045319" duration="507000" />
     </task>
-    <task id="LOCAL-00001" summary="test">
-      <created>1589852254489</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1589852254489</updated>
-    </task>
-    <task id="LOCAL-00002" summary="May 19th.">
-      <created>1589857787772</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1589857787772</updated>
-    </task>
-    <task id="LOCAL-00003" summary="July 12th.">
-      <created>1594566286348</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1594566286348</updated>
-    </task>
-    <task id="LOCAL-00004" summary="July 12th.">
-      <created>1594566637570</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1594566637570</updated>
-    </task>
-    <task id="LOCAL-00005" summary="July 13th.">
-      <created>1594652518433</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1594652518433</updated>
-    </task>
-    <task id="LOCAL-00006" summary="July 13th.">
-      <created>1594687035951</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1594687035951</updated>
-    </task>
-    <task id="LOCAL-00007" summary="July 13th.">
-      <created>1594687208575</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1594687208575</updated>
-    </task>
-    <task id="LOCAL-00008" summary="July 13th.">
-      <created>1594687244770</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1594687244770</updated>
-    </task>
-    <task id="LOCAL-00009" summary="July 16th.">
-      <created>1594910076259</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1594910076259</updated>
-    </task>
-    <task id="LOCAL-00010" summary="July 16th.">
-      <created>1594910387619</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1594910387619</updated>
-    </task>
-    <task id="LOCAL-00011" summary="July 16th.">
-      <created>1594910498165</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1594910498166</updated>
-    </task>
+<<<<<<< HEAD
     <task id="LOCAL-00012" summary="July 16th.">
       <created>1594911412724</created>
       <option name="number" value="00012" />
@@ -212,6 +106,8 @@
       <updated>1594912835846</updated>
     </task>
     <option name="localTasksCounter" value="14" />
+=======
+>>>>>>> origin/master
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,17 +123,9 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="test" />
-    <MESSAGE value="May 19th." />
-    <MESSAGE value="July 12th." />
-    <MESSAGE value="July 13th." />
-    <MESSAGE value="July 16th." />
-    <option name="LAST_COMMIT_MESSAGE" value="July 16th." />
   </component>
   <component name="WindowStateProjectService">
+<<<<<<< HEAD
     <state x="204" y="23" key="#Project_Structure" timestamp="1589856775543">
       <screen x="0" y="23" width="1440" height="797" />
     </state>
@@ -322,5 +210,11 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+=======
+    <state x="496" y="271" key="Vcs.Push.Dialog.v2" timestamp="1595056552250">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state x="496" y="271" key="Vcs.Push.Dialog.v2/1792.-681.2560.1417/0.23.1792.1017@0.23.1792.1017" timestamp="1595056552250" />
+>>>>>>> origin/master
   </component>
 </project>
