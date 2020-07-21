@@ -9,16 +9,9 @@ public class Solution31 {
         System.out.println("A");
     }
 
-    public void A() {
-
-    }
-
     public void B() {
 
     }
 
-    public void C() {
-
-    }
 
 }
