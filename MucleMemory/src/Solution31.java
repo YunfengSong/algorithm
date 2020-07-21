@@ -13,13 +13,4 @@ public class Solution31 {
 
     }
 
-    public void B() {
-
-    }
-
-    public void D() {
-
-
-    }
-
 }
