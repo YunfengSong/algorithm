@@ -5,7 +5,7 @@
 # IntelliJ project files
 .idea
 *.iml
-test.xml
+*.xml
 out
 gen
 workspace.xml
