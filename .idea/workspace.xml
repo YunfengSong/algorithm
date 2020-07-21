@@ -19,12 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f4f9e71-5880-4ee2-9310-b6c65b13f55f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MucleMemory/src/Solution23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MucleMemory/src/Solution31.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MucleMemory/src/Solution22.java" beforeDir="false" afterPath="$PROJECT_DIR$/MucleMemory/src/Solution22.java" afterDir="false" />
-    </list>
+    <list default="true" id="2f4f9e71-5880-4ee2-9310-b6c65b13f55f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +83,16 @@
       <updated>1594990230165</updated>
       <workItem from="1594990235279" duration="106000" />
       <workItem from="1595056045319" duration="507000" />
+      <workItem from="1595293759700" duration="424000" />
     </task>
+    <task id="LOCAL-00001" summary="July 21th.">
+      <created>1595293807295</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595293807295</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,10 +110,14 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="July 21th." />
+    <option name="LAST_COMMIT_MESSAGE" value="July 21th." />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="496" y="271" key="Vcs.Push.Dialog.v2" timestamp="1595056552250">
+    <state x="496" y="271" key="Vcs.Push.Dialog.v2" timestamp="1595293809241">
       <screen x="0" y="23" width="1792" height="1017" />
     </state>
-    <state x="496" y="271" key="Vcs.Push.Dialog.v2/1792.-681.2560.1417/0.23.1792.1017@0.23.1792.1017" timestamp="1595056552250" />
+    <state x="496" y="271" key="Vcs.Push.Dialog.v2/1792.-681.2560.1417/0.23.1792.1017@0.23.1792.1017" timestamp="1595293809241" />
   </component>
 </project>
