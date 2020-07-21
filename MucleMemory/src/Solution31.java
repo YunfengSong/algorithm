@@ -17,4 +17,8 @@ public class Solution31 {
 
     }
 
+    public void D() {
+
+    }
+
 }
