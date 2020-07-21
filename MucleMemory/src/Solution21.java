@@ -23,4 +23,5 @@ public class Solution21 {
 
         return dummy.next;
     }
+
 }
