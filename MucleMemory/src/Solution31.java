@@ -2,14 +2,24 @@
  * @Description
  * @Author yunfeng
  * @Date 2020/7/18
- */
+ *
+ * 1,2,3 → 1,3,2
+ * 3,2,1 → 1,2,3
+ * 1,1,5 → 1,5,1
+ *
+ * /**
+ *  * 求下一个全排列，可分为两种情况：
+ *  * 1.例如像 5 4 3 2 1这样的序列，已经是最大的排列，即每个位置上的数非递增，这时只需要翻转整个序列即可
+ *  * 2.例如像 1 3 5 4 2这样的序列，要从后往前找到第一个比后面一位小的元素的位置，即第二个位置的3，然后与其后第一个比它大的元素交换位置，得到 1 4 5 3 2，再将 5 3 2翻转得到 1 4 2 3 5即可
+ *  */
 public class Solution31 {
 
-    public static void main(String[] args) {
-        System.out.println("A");
-    }
+    public void nextPermutation(int[] nums) {
+        if (nums == null || nums.length == 0) {
+            return;
+        }
 
-    public void A() {
+
 
     }
 
