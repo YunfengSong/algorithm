@@ -10,7 +10,7 @@
  * 2.  1 阶 + 2 阶
  * 3.  2 阶 + 1 阶
  */
-public class Solutiom70 {
+public class Solution70 {
     public int climbStairs(int n) {
         int a = 1;
         int b = 1;
